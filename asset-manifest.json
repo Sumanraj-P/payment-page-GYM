@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/payment-page-GYM/static/css/main.ff1435e6.css",
+    "main.js": "/payment-page-GYM/static/js/main.870abd4d.js",
+    "static/js/453.025cfddf.chunk.js": "/payment-page-GYM/static/js/453.025cfddf.chunk.js",
+    "index.html": "/payment-page-GYM/index.html",
+    "main.ff1435e6.css.map": "/payment-page-GYM/static/css/main.ff1435e6.css.map",
+    "main.870abd4d.js.map": "/payment-page-GYM/static/js/main.870abd4d.js.map",
+    "453.025cfddf.chunk.js.map": "/payment-page-GYM/static/js/453.025cfddf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff1435e6.css",
+    "static/js/main.870abd4d.js"
+  ]
+}
